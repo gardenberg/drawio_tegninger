@@ -1,44 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T10:07:51.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="Ai-R9GDPTQ607pyW8Jw_" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T11:41:07.041Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="QB1LMbGFZ61g4id56OBM" version="16.3.0" type="github">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="Page-1">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="otaZ61-eJIEUoGd5LH7k-2" value="Mål om virkninger" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
-          <mxGeometry x="230" y="300" width="484" height="470" as="geometry" />
+        <mxCell id="otaZ61-eJIEUoGd5LH7k-2" value="Tiltak, resultater, mål og virkninger" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
+          <mxGeometry x="20" y="110" width="590" height="770" as="geometry" />
         </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-3" value="Tiltak" style="swimlane;startSize=20;" parent="otaZ61-eJIEUoGd5LH7k-2" vertex="1">
-          <mxGeometry y="20" width="120" height="450" as="geometry">
+          <mxGeometry y="20" width="120" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9w3HFqVNliFKd6ctjNXA-2" value="Økonomisk støtte til langsiktig forskning" style="whiteSpace=wrap;html=1;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-3">
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-2" value="Økonomisk støtte til langsiktig forskning og utvikling" style="whiteSpace=wrap;html=1;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-3">
           <mxGeometry y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9w3HFqVNliFKd6ctjNXA-1" value="Resultater   " style="swimlane;startSize=20;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-2">
-          <mxGeometry x="120" y="20" width="120" height="450" as="geometry">
+          <mxGeometry x="120" y="20" width="120" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="9w3HFqVNliFKd6ctjNXA-1" source="9w3HFqVNliFKd6ctjNXA-6" target="9w3HFqVNliFKd6ctjNXA-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-6" value="Økt offentlig støtte utløser næringslivets egne forskningsinvesteringer" style="whiteSpace=wrap;html=1;" vertex="1" parent="9w3HFqVNliFKd6ctjNXA-1">
+          <mxGeometry y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-7" value="Økt offentlig støtte utløser næringslivets egne forskningsinvesteringer" style="whiteSpace=wrap;html=1;" vertex="1" parent="9w3HFqVNliFKd6ctjNXA-1">
+          <mxGeometry y="190" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-4" value="Effekter" style="swimlane;startSize=20;" parent="otaZ61-eJIEUoGd5LH7k-2" vertex="1">
-          <mxGeometry x="240" y="20" width="124" height="450" as="geometry">
+          <mxGeometry x="240" y="20" width="124" height="750" as="geometry">
             <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-9" value="Styrke internasjonalisering" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-4" vertex="1">
           <mxGeometry y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otaZ61-eJIEUoGd5LH7k-10" value="Styrke forskerutdanning" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-4" vertex="1">
-          <mxGeometry y="250" width="120" height="60" as="geometry" />
+        <mxCell id="otaZ61-eJIEUoGd5LH7k-10" value="Styrke forskerutdanning på områder som er viktige for industri og forksningsmiljøer" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-4" vertex="1">
+          <mxGeometry y="250" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-11" value="Økt innovasjon" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-4" vertex="1">
           <mxGeometry y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-3" value="Økte investeringer fra utlandet i norsk FoU" style="whiteSpace=wrap;html=1;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-4">
+          <mxGeometry y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-5" value="Gjøre norsk FoU til forskningsfronten innen forskning ...?" style="whiteSpace=wrap;html=1;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-4">
+          <mxGeometry y="374" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-5" value="Lane 3" style="swimlane;startSize=20;" parent="otaZ61-eJIEUoGd5LH7k-2" vertex="1">
-          <mxGeometry x="364" y="20" width="120" height="450" as="geometry" />
+          <mxGeometry x="364" y="20" width="226" height="750" as="geometry" />
         </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-8" value="Styrke teknologioverføring" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9w3HFqVNliFKd6ctjNXA-4" value="Styrket samarbeid mellom FoU-aktive bedrifter og ledende forskningsmiljøer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
