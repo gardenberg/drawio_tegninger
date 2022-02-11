@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T09:55:36.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="vuSt-lE3NXonvG192sdJ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T11:29:33.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="EjxYccLWl7QpzYAhNgLU" version="16.5.6" type="github">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="Page-1">
-    <mxGraphModel dx="782" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="1055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="otaZ61-eJIEUoGd5LH7k-2" value="Senter for forskningsdrevet innovasjon" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
-          <mxGeometry x="230" y="100" width="1360" height="770" as="geometry" />
+          <mxGeometry x="230" y="100" width="1350" height="770" as="geometry" />
         </mxCell>
         <mxCell id="pSStkDloC_WOc6RokfLj-7" value="Hovedmål" style="swimlane;startSize=20;" parent="otaZ61-eJIEUoGd5LH7k-2" vertex="1">
-          <mxGeometry y="20" width="290" height="750" as="geometry">
+          <mxGeometry y="20" width="280" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -19,30 +19,30 @@
           <mxGeometry x="60" y="210" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="otaZ61-eJIEUoGd5LH7k-3" value="Delmål" style="swimlane;startSize=20;" parent="otaZ61-eJIEUoGd5LH7k-2" vertex="1">
-          <mxGeometry x="290" y="20" width="300" height="750" as="geometry">
+          <mxGeometry x="280" y="20" width="300" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pSStkDloC_WOc6RokfLj-11" value="Økt innovasjon" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="50" y="40" width="170" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="pSStkDloC_WOc6RokfLj-10" value="Styrke forskerutdanning på områder som er viktige for industri og forksningsmiljøer" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="75" y="170" width="120" height="70" as="geometry" />
+          <mxGeometry x="65" y="290" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bZppvEKKBneNjKFNrnZ_-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="otaZ61-eJIEUoGd5LH7k-3" source="pSStkDloC_WOc6RokfLj-12" target="pSStkDloC_WOc6RokfLj-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pSStkDloC_WOc6RokfLj-12" value="Økte investeringer fra multinasjonale selskaper i FoU i Norge" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="40" y="250" width="200" height="80" as="geometry" />
+          <mxGeometry x="50" y="640" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pSStkDloC_WOc6RokfLj-13" value="Gjøre norsk FoU til forskningsfronten innen forskning ...?" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="75" y="364.5" width="120" height="60" as="geometry" />
+        <mxCell id="pSStkDloC_WOc6RokfLj-13" value="Fremme utvikling av fremragende næringsretta forskningsmiljøer" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
+          <mxGeometry x="58.75" y="170" width="162.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pSStkDloC_WOc6RokfLj-9" value="Styrke internasjonalisering" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="75" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="pSStkDloC_WOc6RokfLj-14" value="Styrket langsitkig samarbeid mellom FoU-aktive bedrifter og ledende forskningsmiljøer" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
+          <mxGeometry x="75" y="50" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pSStkDloC_WOc6RokfLj-14" value="Styrket samarbeid mellom FoU-aktive bedrifter og ledende forskningsmiljøer" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="75" y="520" width="120" height="60" as="geometry" />
+        <mxCell id="pSStkDloC_WOc6RokfLj-15" value="Styrke&amp;nbsp; kunnskaps-. og teknologioverføring på områder med store muligheter for fremtidig verdiskapning&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
+          <mxGeometry x="65" y="400" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pSStkDloC_WOc6RokfLj-15" value="Styrke teknologioverføring" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
-          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="pSStkDloC_WOc6RokfLj-11" value="Stimulere innovasjon i bedrifter" style="whiteSpace=wrap;html=1;" parent="otaZ61-eJIEUoGd5LH7k-3" vertex="1">
+          <mxGeometry x="65" y="530" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9w3HFqVNliFKd6ctjNXA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="otaZ61-eJIEUoGd5LH7k-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-17" value="Aktiviteter" style="swimlane;startSize=20;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-2">
-          <mxGeometry x="590" y="20" width="290" height="750" as="geometry">
+          <mxGeometry x="580" y="20" width="290" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -59,7 +59,7 @@
           <mxGeometry x="20" y="30" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-19" value="Resultater   " style="swimlane;startSize=20;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-2">
-          <mxGeometry x="880" y="20" width="210" height="750" as="geometry">
+          <mxGeometry x="870" y="20" width="210" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -79,7 +79,7 @@
           <mxGeometry x="50" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-23" value="Virkninger / effekter " style="swimlane;startSize=20;" vertex="1" parent="otaZ61-eJIEUoGd5LH7k-2">
-          <mxGeometry x="1090" y="20" width="270" height="750" as="geometry">
+          <mxGeometry x="1080" y="20" width="270" height="750" as="geometry">
             <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
