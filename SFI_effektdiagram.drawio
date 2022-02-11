@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T09:28:17.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="XFrAUSqTcmfJ8bc-whbc" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T09:52:40.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="RfPvhELkoHmw8Ic6tPJI" version="16.5.6" type="github">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="Page-1">
-    <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="otaZ61-eJIEUoGd5LH7k-2" value="Enkel framstilling av programlogikk" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
+        <mxCell id="otaZ61-eJIEUoGd5LH7k-2" value="Senter for forskningsdrevet innovasjon" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="230" y="100" width="1360" height="770" as="geometry" />
         </mxCell>
         <mxCell id="pSStkDloC_WOc6RokfLj-7" value="Hovedmål" style="swimlane;startSize=20;" parent="otaZ61-eJIEUoGd5LH7k-2" vertex="1">
