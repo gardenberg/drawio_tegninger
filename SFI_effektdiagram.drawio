@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-14T08:31:34.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="0OuAKNmJ1zqeq4d_Fbih" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-14T10:15:42.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="f39ROarhwslj1yYCLwgn" version="16.5.6" type="github">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,22 +87,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-25" value="Styrke forskerutdanning på områder som er viktige for industri og forksningsmiljøer" style="whiteSpace=wrap;html=1;" parent="bZppvEKKBneNjKFNrnZ_-23" vertex="1">
-          <mxGeometry x="40" y="280" width="170" height="120" as="geometry" />
+          <mxGeometry x="50" y="150" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-26" value="Økt innovasjon" style="whiteSpace=wrap;html=1;" parent="bZppvEKKBneNjKFNrnZ_-23" vertex="1">
-          <mxGeometry x="50" y="70" width="170" height="90" as="geometry" />
+          <mxGeometry x="55" y="420" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-27" value="Økte investeringer fra multinasjonale selskaper i FoU i Norge" style="whiteSpace=wrap;html=1;" parent="bZppvEKKBneNjKFNrnZ_-23" vertex="1">
-          <mxGeometry x="40" y="190" width="200" height="80" as="geometry" />
+          <mxGeometry x="40" y="650" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-28" value="Øke kvaliteten på norsk forskning" style="whiteSpace=wrap;html=1;" parent="bZppvEKKBneNjKFNrnZ_-23" vertex="1">
-          <mxGeometry x="65" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="300" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-29" value="Styrket samarbeid mellom FoU-aktive bedrifter og ledende forskningsmiljøer" style="whiteSpace=wrap;html=1;" parent="bZppvEKKBneNjKFNrnZ_-23" vertex="1">
-          <mxGeometry x="45" y="500" width="180" height="90" as="geometry" />
+          <mxGeometry x="40" y="40" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-30" value="Styrke teknologioverføring" style="whiteSpace=wrap;html=1;" parent="bZppvEKKBneNjKFNrnZ_-23" vertex="1">
-          <mxGeometry x="75" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bZppvEKKBneNjKFNrnZ_-46" value="Internasjonal forskerutveksling og utenlandsopphold, studentutveksling" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="800" y="320" width="220" height="60" as="geometry" />
