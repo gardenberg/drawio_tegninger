@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T12:44:32.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="-KG3ALojs_L0QSjJVhAL" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-16T12:44:43.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="Y5TCc5vDzDhyJT3C6IsX" version="16.5.6" type="github" pages="2">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="SFI">
     <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,46 +174,10 @@
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-16" value="Økt offentlig støtte utløser næringslivets egne forskningsinvesteringer" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-15">
-          <mxGeometry x="20" y="30" width="170" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-17" value="Sentrene utvikler verdensledende forskning på bedriftsnære temaer&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-15">
-          <mxGeometry x="30" y="200" width="160" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-18" value="Sentrene ansetter og utdanner doktorgradsstudenter i tilknytning til sentrene" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-15">
-          <mxGeometry x="30" y="360" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-19" value="Publiseringer og sampubliseringer" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-15">
-          <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-20" value="Siteringer" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-15">
-          <mxGeometry x="45" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-21" value="Styrke internasjonalisering" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-15">
-          <mxGeometry x="20" y="550" width="170" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="LS0OI3Ib33P197It_zkW-22" value="Virkninger / effekter " style="swimlane;startSize=20;" vertex="1" parent="LS0OI3Ib33P197It_zkW-0">
           <mxGeometry x="1030" y="20" width="270" height="750" as="geometry">
             <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-23" value="Styrke forskerutdanning på områder som er viktige for industri og forksningsmiljøer" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-22">
-          <mxGeometry x="50" y="150" width="170" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-24" value="Økt innovasjon" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-22">
-          <mxGeometry x="55" y="420" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-25" value="Økte investeringer fra multinasjonale selskaper i FoU i Norge" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-22">
-          <mxGeometry x="40" y="650" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-26" value="Øke kvaliteten på norsk forskning" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-22">
-          <mxGeometry x="50" y="300" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-27" value="Styrket samarbeid mellom FoU-aktive bedrifter og ledende forskningsmiljøer" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-22">
-          <mxGeometry x="40" y="40" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-28" value="Styrke teknologioverføring" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-22">
-          <mxGeometry x="80" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
