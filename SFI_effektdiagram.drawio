@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T13:59:21.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="IldVQJ3qjlnQpxBKwjCM" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-17T12:33:28.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="id0pj7euMYeeOlvsznDs" version="16.5.6" type="github" pages="3">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="SFI">
-    <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,76 +117,124 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GnxYjJJU_Q2qJeFFX82j" name="Norsk katapult">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_NEAXVzucMWPq2dvhj8u-0" />
         <mxCell id="_NEAXVzucMWPq2dvhj8u-1" parent="_NEAXVzucMWPq2dvhj8u-0" />
-        <mxCell id="LS0OI3Ib33P197It_zkW-0" value="Norsk katapult" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="_NEAXVzucMWPq2dvhj8u-1">
+        <mxCell id="LS0OI3Ib33P197It_zkW-0" value="Norsk katapult" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="_NEAXVzucMWPq2dvhj8u-1" vertex="1">
           <mxGeometry x="230" y="100" width="1300" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-1" value="Hovedmål" style="swimlane;startSize=20;" vertex="1" parent="LS0OI3Ib33P197It_zkW-0">
+        <mxCell id="LS0OI3Ib33P197It_zkW-1" value="Hovedmål" style="swimlane;startSize=20;" parent="LS0OI3Ib33P197It_zkW-0" vertex="1">
           <mxGeometry y="20" width="280" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-2" value="Bedre verdiskaping i NOrge" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-1">
+        <mxCell id="LS0OI3Ib33P197It_zkW-2" value="Bedre verdiskaping i NOrge" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-1" vertex="1">
           <mxGeometry x="60" y="180" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-3" value="Styrke bedrifters konkurranseevne" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-1">
+        <mxCell id="LS0OI3Ib33P197It_zkW-3" value="Styrke bedrifters konkurranseevne" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-1" vertex="1">
           <mxGeometry x="60" y="60" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-4" value="Delmål" style="swimlane;startSize=20;" vertex="1" parent="LS0OI3Ib33P197It_zkW-0">
+        <mxCell id="LS0OI3Ib33P197It_zkW-4" value="Delmål" style="swimlane;startSize=20;" parent="LS0OI3Ib33P197It_zkW-0" vertex="1">
           <mxGeometry x="280" y="20" width="270" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-29" value="Bidra til at bedrifter raskere, rimeligere og bedre evner å utvikle idéer fra konseptstadiet og frem til markedsintroduksjon&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-4">
+        <mxCell id="LS0OI3Ib33P197It_zkW-29" value="Bidra til at bedrifter raskere, rimeligere og bedre evner å utvikle idéer fra konseptstadiet og frem til markedsintroduksjon&amp;nbsp;&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-4" vertex="1">
           <mxGeometry x="50" y="60" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-30" value="Bygge innovasjonskapasitet" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-4">
+        <mxCell id="LS0OI3Ib33P197It_zkW-30" value="Bygge innovasjonskapasitet" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-4" vertex="1">
           <mxGeometry x="50" y="180" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-31" value="Tilgjengeliggjøre innovasjonskapasitet for hele landet" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-4">
+        <mxCell id="LS0OI3Ib33P197It_zkW-31" value="Tilgjengeliggjøre innovasjonskapasitet for hele landet" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-4" vertex="1">
           <mxGeometry x="50" y="290" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="0ouoTLWdIfDusZx9ftZH-1" value="Delmål for sentrene" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-4">
+        <mxCell id="0ouoTLWdIfDusZx9ftZH-1" value="Delmål for sentrene" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-4" vertex="1">
           <mxGeometry x="75" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0ouoTLWdIfDusZx9ftZH-2" value="Delmål for bedriftene som bruker sentrene" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-4">
+        <mxCell id="0ouoTLWdIfDusZx9ftZH-2" value="Delmål for bedriftene som bruker sentrene" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-4" vertex="1">
           <mxGeometry x="30" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-12" value="Aktiviteter" style="swimlane;startSize=20;" vertex="1" parent="LS0OI3Ib33P197It_zkW-0">
+        <mxCell id="LS0OI3Ib33P197It_zkW-12" value="Aktiviteter" style="swimlane;startSize=20;" parent="LS0OI3Ib33P197It_zkW-0" vertex="1">
           <mxGeometry x="550" y="20" width="270" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LS0OI3Ib33P197It_zkW-12" source="LS0OI3Ib33P197It_zkW-32" target="LS0OI3Ib33P197It_zkW-35">
+        <mxCell id="LS0OI3Ib33P197It_zkW-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LS0OI3Ib33P197It_zkW-12" source="LS0OI3Ib33P197It_zkW-32" target="LS0OI3Ib33P197It_zkW-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-32" value="Etablere 7-9 katapult-sentre på områder av stor verdi for fremtidens industri i Norge" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-12">
+        <mxCell id="LS0OI3Ib33P197It_zkW-32" value="Etablere 7-9 katapult-sentre på områder av stor verdi for fremtidens industri i Norge" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-12" vertex="1">
           <mxGeometry x="60" y="60" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="LS0OI3Ib33P197It_zkW-12" source="LS0OI3Ib33P197It_zkW-35" target="LS0OI3Ib33P197It_zkW-37">
+        <mxCell id="LS0OI3Ib33P197It_zkW-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="LS0OI3Ib33P197It_zkW-12" source="LS0OI3Ib33P197It_zkW-35" target="LS0OI3Ib33P197It_zkW-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-35" value="Etablere senter med testkapasitet, teknologi og kompetanse" style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-12">
+        <mxCell id="LS0OI3Ib33P197It_zkW-35" value="Etablere senter med testkapasitet, teknologi og kompetanse" style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-12" vertex="1">
           <mxGeometry x="40" y="260" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-37" value="Tilgjengeliggjøre kapasiteten for små- og mellomstore bedrifter i hele landet." style="whiteSpace=wrap;html=1;" vertex="1" parent="LS0OI3Ib33P197It_zkW-12">
+        <mxCell id="LS0OI3Ib33P197It_zkW-37" value="Tilgjengeliggjøre kapasiteten for små- og mellomstore bedrifter i hele landet." style="whiteSpace=wrap;html=1;" parent="LS0OI3Ib33P197It_zkW-12" vertex="1">
           <mxGeometry x="50" y="400" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-15" value="Resultater   " style="swimlane;startSize=20;" vertex="1" parent="LS0OI3Ib33P197It_zkW-0">
+        <mxCell id="LS0OI3Ib33P197It_zkW-15" value="Resultater   " style="swimlane;startSize=20;" parent="LS0OI3Ib33P197It_zkW-0" vertex="1">
           <mxGeometry x="820" y="20" width="210" height="750" as="geometry">
             <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LS0OI3Ib33P197It_zkW-22" value="Virkninger / effekter " style="swimlane;startSize=20;" vertex="1" parent="LS0OI3Ib33P197It_zkW-0">
+        <mxCell id="LS0OI3Ib33P197It_zkW-22" value="Virkninger / effekter " style="swimlane;startSize=20;" parent="LS0OI3Ib33P197It_zkW-0" vertex="1">
           <mxGeometry x="1030" y="20" width="270" height="750" as="geometry">
             <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ouoTLWdIfDusZx9ftZH-0" value="Delmål for ordningen" style="whiteSpace=wrap;html=1;" vertex="1" parent="_NEAXVzucMWPq2dvhj8u-1">
+        <mxCell id="0ouoTLWdIfDusZx9ftZH-0" value="Delmål for ordningen" style="whiteSpace=wrap;html=1;" parent="_NEAXVzucMWPq2dvhj8u-1" vertex="1">
           <mxGeometry x="570" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FyFrDqqIIamO0tCzEeZY" name="SFY">
+    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GEJyjRw_8cyNjjllpOOH-0" />
+        <mxCell id="GEJyjRw_8cyNjjllpOOH-1" parent="GEJyjRw_8cyNjjllpOOH-0" />
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-0" value="Norsk katapult" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="GEJyjRw_8cyNjjllpOOH-1">
+          <mxGeometry x="230" y="100" width="1300" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-1" value="Hovedmål" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
+          <mxGeometry y="20" width="280" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-2" value="styrke samarbeid på tvers av utdanningsnivå" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
+          <mxGeometry x="60" y="180" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-3" value="å øke den faglige kompetansen og kvaliteten på opplæringa,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
+          <mxGeometry x="60" y="60" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-19" value="øke anseelsen og rekrutteringen til høyere yrkesfaglig utdanning,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
+          <mxGeometry x="60" y="290" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-18" value="bidra til at norsk fagskole og fagopplæring kan markere seg i en europeisk kontekst." style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
+          <mxGeometry x="55" y="410" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-4" value="Delmål" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
+          <mxGeometry x="280" y="20" width="270" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-10" value="Aktiviteter" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
+          <mxGeometry x="550" y="20" width="270" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-16" value="Resultater   " style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
+          <mxGeometry x="820" y="20" width="210" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-17" value="Virkninger / effekter " style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
+          <mxGeometry x="1030" y="20" width="270" height="750" as="geometry">
+            <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
