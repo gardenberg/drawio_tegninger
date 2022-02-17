@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T12:36:59.733Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="BhcAbSKmGascwIXfeFQm" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-17T12:38:14.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jgmx90OY6lO13InGC2jA" version="16.5.6" type="github" pages="3">
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="SFI">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
       <root>
         <mxCell id="GEJyjRw_8cyNjjllpOOH-0" />
         <mxCell id="GEJyjRw_8cyNjjllpOOH-1" parent="GEJyjRw_8cyNjjllpOOH-0" />
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-0" value="Norsk katapult" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="GEJyjRw_8cyNjjllpOOH-1">
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-0" value="Senter for fremragende yrkesfag" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="GEJyjRw_8cyNjjllpOOH-1">
           <mxGeometry x="230" y="100" width="1300" height="770" as="geometry" />
         </mxCell>
         <mxCell id="V4EtqbbjR3Le7S1kqnNx-1" value="Hovedmål" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
