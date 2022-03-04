@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:39:36.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RLMdXvsWQ-2vVlcncL_6" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T11:46:53.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Dido0uSauhSOGmyBVece" version="16.6.5" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="782" dy="1064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="70" y="40" width="960" height="750" as="geometry" />
+          <mxGeometry x="70" y="40" width="1020" height="750" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="Formål" style="swimlane;html=1;startSize=20;rounded=0;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="240" height="730" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="3UpCS2SwMKkb_BXAR1L--5" value="Hvordan kan det legges bedre til rette for samarbeid mellom frivilligheten og det offentlige på lokalt og regionalt nivå?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="91" y="430" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3UpCS2SwMKkb_BXAR1L--4" value="Hvordan kan det legges bedre til rette for erfarings- og kunnskapsdeling mellom frivillige organisasjoner?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--4" value="Hvordan kan det legges bedre til rette for samarbeid mellom frivillige organisasjoner?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="91" y="643" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3UpCS2SwMKkb_BXAR1L--3" value="Hvilke behov for samarbeid og samordning med frivillig sektor har ulike typer frivillige organisasjoner?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-3">
@@ -55,11 +55,17 @@
         <mxCell id="3UpCS2SwMKkb_BXAR1L--45" value="Typer av organisasjoner:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Minoritetsorg.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Majoritetsorg.&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Medlemsretta&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Samfunnsretta&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;...&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Funksjoner i integreringsarbeidet&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="50" y="240" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="3UpCS2SwMKkb_BXAR1L--49" value="Mulige behov for samarbeid og samordning:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Hvilke egenskaper finnes her?&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Formalisering av avtaler?&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Aktiviteter?&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
-          <mxGeometry x="33" y="425" width="200" height="110" as="geometry" />
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--49" value="Mulige behov for samarbeid og samordning:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Hvilke egenskaper finnes her?&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Formalisering av avtaler?&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Aktiviteter?&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Erfaringsdeling?&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Kunnskapsdeling?&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="40" y="540" width="200" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--55" value="Lokal og regional kontekst av betydning for kompetansebehov:" style="whiteSpace=wrap;html=1;fontSize=11;fontFamily=Verdana;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="70" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="Spørsmål" style="swimlane;html=1;startSize=20;rounded=0;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="780" y="20" width="180" height="730" as="geometry" />
+          <mxGeometry x="780" y="20" width="240" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--53" value="Hvordan kan det legges bedre til rette for erfarings- og kunnskapsdeling mellom frivillige organisasjoner?" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=11;align=center;" vertex="1" parent="77e6c97f196da883-5">
+          <mxGeometry x="30" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3UpCS2SwMKkb_BXAR1L--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="77e6c97f196da883-9">
           <mxGeometry relative="1" as="geometry" />
@@ -97,6 +103,20 @@
         <mxCell id="3UpCS2SwMKkb_BXAR1L--51" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="3UpCS2SwMKkb_BXAR1L--3" target="3UpCS2SwMKkb_BXAR1L--45">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--52" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="77e6c97f196da883-1" source="3UpCS2SwMKkb_BXAR1L--1" target="3UpCS2SwMKkb_BXAR1L--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--54" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="77e6c97f196da883-1" source="3UpCS2SwMKkb_BXAR1L--4" target="3UpCS2SwMKkb_BXAR1L--49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UpCS2SwMKkb_BXAR1L--56" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" target="3UpCS2SwMKkb_BXAR1L--55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="213" />
+              <mxPoint x="530" y="450" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
