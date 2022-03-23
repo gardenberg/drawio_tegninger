@@ -1,6 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T12:38:14.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="jgmx90OY6lO13InGC2jA" version="16.5.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-23T09:10:50.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_nLwBovbh8tq0TkM9NhD" version="17.1.3" type="github" pages="4">
+  <diagram id="FyFrDqqIIamO0tCzEeZY" name="SFY">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GEJyjRw_8cyNjjllpOOH-0" />
+        <mxCell id="GEJyjRw_8cyNjjllpOOH-1" parent="GEJyjRw_8cyNjjllpOOH-0" />
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-0" value="Senter for fremragende yrkesfag" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" parent="GEJyjRw_8cyNjjllpOOH-1" vertex="1">
+          <mxGeometry x="230" y="100" width="1300" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-1" value="Hovedmål" style="swimlane;startSize=20;" parent="V4EtqbbjR3Le7S1kqnNx-0" vertex="1">
+          <mxGeometry y="20" width="280" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-2" value="styrke samarbeid på tvers av utdanningsnivå" style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-1" vertex="1">
+          <mxGeometry x="60" y="180" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-3" value="å øke den faglige kompetansen og kvaliteten på opplæringa,&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-1" vertex="1">
+          <mxGeometry x="60" y="60" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-19" value="øke anseelsen og rekrutteringen til høyere yrkesfaglig utdanning,&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-1" vertex="1">
+          <mxGeometry x="60" y="290" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-18" value="bidra til at norsk fagskole og fagopplæring kan markere seg i en europeisk kontekst." style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-1" vertex="1">
+          <mxGeometry x="55" y="410" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-4" value="Delmål" style="swimlane;startSize=20;" parent="V4EtqbbjR3Le7S1kqnNx-0" vertex="1">
+          <mxGeometry x="280" y="20" width="270" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-10" value="Aktiviteter" style="swimlane;startSize=20;" parent="V4EtqbbjR3Le7S1kqnNx-0" vertex="1">
+          <mxGeometry x="550" y="20" width="270" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-20" value="det skal være en finansieringsordning, som skal gi senteret et økonomisk handlingsrom," style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-10" vertex="1">
+          <mxGeometry x="50" y="70" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-22" value="det skal være en søkbar ordning,&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-10" vertex="1">
+          <mxGeometry x="47" y="190" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-21" value="der kriteriene som søknadene vurderes etter bl.a. handler om at aktørene skal samle utdanningsmiljøer på flere nivåer, arbeidsliv og relevante forskningsmiljø," style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-10" vertex="1">
+          <mxGeometry x="50" y="310" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-24" value="ordningen skal samvirke med eksisterende ordninger" style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-10" vertex="1">
+          <mxGeometry x="50" y="540" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-23" value="prestisjeordning, allerede fremragende miljø" style="whiteSpace=wrap;html=1;" parent="V4EtqbbjR3Le7S1kqnNx-10" vertex="1">
+          <mxGeometry x="50" y="430" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-16" value="Resultater   " style="swimlane;startSize=20;" parent="V4EtqbbjR3Le7S1kqnNx-0" vertex="1">
+          <mxGeometry x="820" y="20" width="210" height="750" as="geometry">
+            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V4EtqbbjR3Le7S1kqnNx-17" value="Virkninger / effekter " style="swimlane;startSize=20;" parent="V4EtqbbjR3Le7S1kqnNx-0" vertex="1">
+          <mxGeometry x="1030" y="20" width="270" height="750" as="geometry">
+            <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xdKU26Syb85eFdecXKPt-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="GEJyjRw_8cyNjjllpOOH-1" target="xdKU26Syb85eFdecXKPt-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="194" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="gUhN11qYkWxtTLKya9Cd" name="SFI">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +185,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GnxYjJJU_Q2qJeFFX82j" name="Norsk katapult">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_NEAXVzucMWPq2dvhj8u-0" />
         <mxCell id="_NEAXVzucMWPq2dvhj8u-1" parent="_NEAXVzucMWPq2dvhj8u-0" />
@@ -191,65 +259,28 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FyFrDqqIIamO0tCzEeZY" name="SFY">
-    <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="49zCok4O645lyGsDfWXL" name="Klynge">
+    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
-        <mxCell id="GEJyjRw_8cyNjjllpOOH-0" />
-        <mxCell id="GEJyjRw_8cyNjjllpOOH-1" parent="GEJyjRw_8cyNjjllpOOH-0" />
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-0" value="Senter for fremragende yrkesfag" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;" vertex="1" parent="GEJyjRw_8cyNjjllpOOH-1">
-          <mxGeometry x="230" y="100" width="1300" height="770" as="geometry" />
+        <mxCell id="1EG5SzlL99dcXC77EAZh-0" />
+        <mxCell id="1EG5SzlL99dcXC77EAZh-1" parent="1EG5SzlL99dcXC77EAZh-0" />
+        <mxCell id="E8h-wSaFoch_RyPKuPH2-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1EG5SzlL99dcXC77EAZh-1" source="E8h-wSaFoch_RyPKuPH2-1" target="E8h-wSaFoch_RyPKuPH2-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-1" value="Hovedmål" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
-          <mxGeometry y="20" width="280" height="750" as="geometry">
-            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="E8h-wSaFoch_RyPKuPH2-1" value="&lt;b&gt;&lt;u&gt;Hovedmål&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Vekst og innovasjon&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1EG5SzlL99dcXC77EAZh-1">
+          <mxGeometry x="50" y="89" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-2" value="styrke samarbeid på tvers av utdanningsnivå" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
-          <mxGeometry x="60" y="180" width="170" height="90" as="geometry" />
+        <mxCell id="E8h-wSaFoch_RyPKuPH2-2" value="&lt;b&gt;&lt;u&gt;Delmål&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Styrke samarbeid/tillit mellom deltakerne i klyngen" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1EG5SzlL99dcXC77EAZh-1">
+          <mxGeometry x="330" y="89" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-3" value="å øke den faglige kompetansen og kvaliteten på opplæringa,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
-          <mxGeometry x="60" y="60" width="170" height="90" as="geometry" />
+        <mxCell id="E8h-wSaFoch_RyPKuPH2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1EG5SzlL99dcXC77EAZh-1" source="E8h-wSaFoch_RyPKuPH2-4" target="E8h-wSaFoch_RyPKuPH2-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-19" value="øke anseelsen og rekrutteringen til høyere yrkesfaglig utdanning,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
-          <mxGeometry x="60" y="290" width="170" height="90" as="geometry" />
+        <mxCell id="E8h-wSaFoch_RyPKuPH2-4" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&lt;u&gt;Aktiviteter&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Offentlig støtte til utløse, forsterke og gjennomføre samarbeid&lt;br&gt;&lt;br&gt;Rådgivning&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 12px ; line-height: 115%&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Bidra til synlighet og&lt;br&gt;anerkjennelse for klyngene og deltakerne i dem&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;line-height: 115%&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Legge til rette for at&lt;br&gt;klyngene får tilgang på vekstkapital, kompetanse, ulike fasiliteter, og øke&lt;br&gt;samarbeidet med andre innovasjonsaktører&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1EG5SzlL99dcXC77EAZh-1">
+          <mxGeometry x="590" y="69" width="250" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-18" value="bidra til at norsk fagskole og fagopplæring kan markere seg i en europeisk kontekst." style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-1">
-          <mxGeometry x="55" y="410" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-4" value="Delmål" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
-          <mxGeometry x="280" y="20" width="270" height="750" as="geometry">
-            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-10" value="Aktiviteter" style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
-          <mxGeometry x="550" y="20" width="270" height="750" as="geometry">
-            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-20" value="det skal være en finansieringsordning, som skal gi senteret et økonomisk handlingsrom," style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-10">
-          <mxGeometry x="50" y="70" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-22" value="det skal være en søkbar ordning,&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-10">
-          <mxGeometry x="47" y="190" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-21" value="der kriteriene som søknadene vurderes etter bl.a. handler om at aktørene skal samle utdanningsmiljøer på flere nivåer, arbeidsliv og relevante forskningsmiljø," style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-10">
-          <mxGeometry x="50" y="310" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-24" value="ordningen skal samvirke med eksisterende ordninger" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-10">
-          <mxGeometry x="50" y="540" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-23" value="prestisjeordning, allerede fremragende miljø" style="whiteSpace=wrap;html=1;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-10">
-          <mxGeometry x="50" y="430" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-16" value="Resultater   " style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
-          <mxGeometry x="820" y="20" width="210" height="750" as="geometry">
-            <mxRectangle y="20" width="30" height="460" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V4EtqbbjR3Le7S1kqnNx-17" value="Virkninger / effekter " style="swimlane;startSize=20;" vertex="1" parent="V4EtqbbjR3Le7S1kqnNx-0">
-          <mxGeometry x="1030" y="20" width="270" height="750" as="geometry">
-            <mxRectangle x="120" y="20" width="30" height="460" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="E8h-wSaFoch_RyPKuPH2-5" value="&lt;u style=&quot;font-weight: bold&quot;&gt;Resultater og effekter&lt;/u&gt;&lt;br&gt;&lt;br&gt;Større inntekt&lt;br&gt;&lt;br&gt;Flere ansettelser&lt;br&gt;&lt;br&gt;&lt;span style=&quot;line-height: 115%&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Økning av FoU-relaterte&lt;br&gt;samarbeidsprosjekter&lt;br&gt;&lt;br&gt;Økt synlighet og stolthet&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1EG5SzlL99dcXC77EAZh-1">
+          <mxGeometry x="890" y="89" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
